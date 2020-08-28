@@ -6,10 +6,6 @@ Getting started:
 2. Clone repostiory.
 2. Execute: `cargo run`
 
-Download links:
-- Windows 64bit (TBD)
-- OSX 64bit (TBD)
-
 Contributers:
 - Derek (https://github.com/nyghtly-derek)
 - Robert (https://github.com/robert-blankenship)
