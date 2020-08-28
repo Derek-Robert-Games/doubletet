@@ -17,3 +17,5 @@ Contributers:
 Tools:
 - [Amethyst](https://amethyst.rs/)
 
+Documentation:
+- [Game Design Document](https://docs.google.com/document/d/1qYGURjKrOMJv3trBg537nLoV2WQmIW24HN1ztARR8dg/edit)
