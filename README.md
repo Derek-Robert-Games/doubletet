@@ -6,9 +6,6 @@ Getting started:
 2. Clone repostiory.
 2. Execute: `cargo run`
 
-Documentation:
-https://docs.google.com/document/d/1ceafcIbEzfxm2zcUSI8PJG6e4mL3dEidRQMwUaJZHUs/edit
-
 Download links:
 - Windows 64bit (TBD)
 - OSX 64bit (TBD)
@@ -16,4 +13,7 @@ Download links:
 Contributers:
 - Derek (https://github.com/nyghtly-derek)
 - Robert (https://github.com/robert-blankenship)
+
+Tools:
+- [Amethyst](https://amethyst.rs/)
 
